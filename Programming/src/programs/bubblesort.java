@@ -24,7 +24,7 @@ public class bubblesort {
 		{
 			System.out.println(arr[k]);
 			//bubble sort
-			///
+			/////
 		}
 	}
 }
