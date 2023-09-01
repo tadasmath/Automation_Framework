@@ -23,7 +23,7 @@ public class bubblesort {
 		for(int k=0;k<n;k++)
 		{
 			System.out.println(arr[k]);
-			
+			//bubble sort
 		}
 	}
 }
